@@ -17,4 +17,5 @@ footer: Dave
 # Hello VuePress
 
 This is the bare site!
+Edited onGithub
 ![Baby Yoda](/images/BabyYoda.jpeg "Title")
