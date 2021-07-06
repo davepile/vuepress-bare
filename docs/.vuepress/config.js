@@ -2,6 +2,11 @@ module.exports = {
     title: 'Hello VuePress',
     description: 'Just playing around',
     themeConfig: {
+        repo: 'davepile/vuepress-bare',
+        repoLabel: 'Contribute!',
+        docsBranch: 'main',
+        editLinks: true,
+        editLinkText: 'Help Improve this page',
         smoothScroll: true,
         logo: '/images/logo.png',
         // navbar: false,           // diable navbar globally
